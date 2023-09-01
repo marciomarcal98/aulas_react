@@ -30,6 +30,16 @@ function Header() {
                 </nav>
             </div>
         </div>
+
+        <div className="menu-desktop">
+            <h1>Acessa aí</h1>
+
+            <nav>
+                <a href="">Configurações</a>
+                <a href="">Login</a>
+                <a href="">Sobre</a>
+            </nav>
+        </div>
     </header>
   )
 }
